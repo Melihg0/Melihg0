@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih Gacav</h1>
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=10qmwSYIH9K-3Mn9TBXAxw5gVaDFnhRKN" alt="Banner" />
-</div>!
+</div>
 <h3 align="center">As a Computer Engineering student in Turkey, I’m focused on improving my skills in software development and exploring new technologies. My goal is to learn, create, and contribute effectively.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
